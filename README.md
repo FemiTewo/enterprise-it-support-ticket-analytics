@@ -142,29 +142,6 @@ Final Conclusion
 The analysis shows that the IT support team is generally prioritizing urgent and high-priority tickets correctly, but there are clear opportunities to improve SLA performance, customer satisfaction, and support efficiency.
 
 The biggest concern is not only how quickly tickets are closed, but whether customers feel their issues were handled well. Improving SLA handling, reducing active backlog, strengthening support documentation, reviewing chat operations, and investigating low CSAT scores should be the main operational priorities.
-
-Next Steps
-
-The next step is to build a Power BI dashboard using the cleaned dataset located at:
-
-data/processed/cleaned_support_tickets.csv
-
-The dashboard should include:
-
-Total tickets
-Resolved tickets
-Open tickets
-Average resolution time
-Average CSAT score
-Ticket volume by status
-SLA performance
-Ticket volume by priority
-Resolution time by priority
-Customer sentiment distribution
-CSAT score distribution
-Ticket volume by support channel
-Resolution time by support channel
-Ticket volume by product area
 Resolution time by product area
 Ticket volume by issue type
 Resolution time by issue type
